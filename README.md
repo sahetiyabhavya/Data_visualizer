@@ -1,4 +1,4 @@
-#  Python — Data Analysis & Visualization Program
+#  Data Analysis & Visualization Program
 
 A simple Data Analysis and Visualization project built with Python to analyze CSV datasets, handle missing values,perform data operations, and generate different types of graphs.
 
